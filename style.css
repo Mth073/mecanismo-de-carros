@@ -1,3 +1,14 @@
-body( 
+body{
     font-family: "Parkinsans", sans-serif;
-)
+    background:  palevioletred
+    color darkblue;
+    margin: 0px;
+    margin-bottom: 100px;
+}
+.chamada{
+    background: black;
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
